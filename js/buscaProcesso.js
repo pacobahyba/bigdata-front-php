@@ -1,4 +1,6 @@
 $(function () {
+  $("#numProcesso").mask("0000000-00.0000.0.00.0000");
+
   $("#btBuscaProcesso").on("click", function () {
     let numProcesso = $("#numProcesso").val();
     if (!numProcesso) {

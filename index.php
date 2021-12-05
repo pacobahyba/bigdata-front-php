@@ -56,6 +56,7 @@
         </div>
         <script src="js/jquery-3.6.0.min.js"></script>
         <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/jquery.mask.min.js"></script>
         <script src="js/buscaProcesso.js"></script>
 </body>
 
